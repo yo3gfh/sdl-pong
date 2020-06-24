@@ -16,6 +16,9 @@ It uses the Muli true-type font, designed by Vernon Adams
 
 https://fonts.google.com/specimen/Muli
 
+Background texture built from a image I found by typing "grim reaper"
+in Google :-)
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or

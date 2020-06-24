@@ -2,7 +2,8 @@
 
 **SDL Pong Mayhem :-)**
 
-Copyright (c) 2020 Adrian Petrila, YO3GFHSimple pong game with the Pelle's C compiler and SDL graphic/media library:
+Copyright (c) 2020 Adrian Petrila, YO3GFH<br>
+Simple pong game with the Pelle's C compiler and SDL graphic/media library:
 
 http://www.smorgasbordet.com/pellesc/
 https://www.libsdl.org/download-2.0.php
@@ -30,7 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 **Features**
 
-* Variable ball speed, change it with -/= (or keypad +/-).
+* Variable ball speed, change it with -/= (or keypad +/-). Press F1 for help :)
 
 * Wallpaper =) just put something called "wallpaper.png" in game folder.
 

@@ -34,6 +34,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 **Features**
 
+* Multiplayer 8-) W/S keys for left player, UP/DOWN for right player.
+You can even play left hand against right hand :-))
+
 * Variable ball speed, change it with -/= (or keypad +/-). Press F1 for help :)
 
 * Wallpaper =) just put something called "wallpaper.png" in game folder.

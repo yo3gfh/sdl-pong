@@ -3,7 +3,7 @@
 **SDL Pong Mayhem :-)**
 
 Copyright (c) 2020 Adrian Petrila, YO3GFH<br>
-Simple pong game with the Pelle's C compiler and SDL graphic/media library:
+Simple pong game built with the Pelle's C compiler and SDL graphic/media library:
 
 http://www.smorgasbordet.com/pellesc/
 https://www.libsdl.org/download-2.0.php

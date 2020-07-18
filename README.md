@@ -12,9 +12,9 @@ It also uses SDL_TTF, SDL_Image and SDL_Mix:
 
 <https://www.libsdl.org/projects/>
 
-It uses the Muli true-type font, designed by Vernon Adams
+It uses the Mulish true-type font, designed by Vernon Adams
 
-<https://fonts.google.com/specimen/Muli/>
+<https://fonts.google.com/specimen/Mulish/>
 
 Background texture built from a image I found by typing "grim reaper"
 in Google :-)

@@ -5,16 +5,16 @@
 Copyright (c) 2020 Adrian Petrila, YO3GFH<br>
 Simple pong game built with the Pelle's C compiler and SDL graphic/media library:
 
-http://www.smorgasbordet.com/pellesc/
-https://www.libsdl.org/download-2.0.php
+<http://www.smorgasbordet.com/pellesc/><br>
+<https://www.libsdl.org/download-2.0.php/>
 
 It also uses SDL_TTF, SDL_Image and SDL_Mix:
 
-https://www.libsdl.org/projects/
+<https://www.libsdl.org/projects/>
 
 It uses the Muli true-type font, designed by Vernon Adams
 
-https://fonts.google.com/specimen/Muli
+<https://fonts.google.com/specimen/Muli/>
 
 Background texture built from a image I found by typing "grim reaper"
 in Google :-)

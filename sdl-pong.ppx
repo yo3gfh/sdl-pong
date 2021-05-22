@@ -2,10 +2,10 @@
 <settings version="1.0">
 	<category name="sdl-pong.h">
 		<category name="Window">
-			<property name="Left" type="integer">0</property>
-			<property name="Top" type="integer">0</property>
-			<property name="Right" type="integer">1440</property>
-			<property name="Bottom" type="integer">556</property>
+			<property name="Left" type="integer">25</property>
+			<property name="Top" type="integer">25</property>
+			<property name="Right" type="integer">1465</property>
+			<property name="Bottom" type="integer">597</property>
 			<property name="Maximized" type="integer">0</property>
 			<property name="Active" type="integer">0</property>
 		</category>
@@ -14,8 +14,8 @@
 		<category name="Window">
 			<property name="Left" type="integer">4294967288</property>
 			<property name="Top" type="integer">4294967266</property>
-			<property name="Right" type="integer">1582</property>
-			<property name="Bottom" type="integer">750</property>
+			<property name="Right" type="integer">1655</property>
+			<property name="Bottom" type="integer">771</property>
 			<property name="Maximized" type="integer">1</property>
 			<property name="Active" type="integer">1</property>
 		</category>
